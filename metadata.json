@@ -1,0 +1,6 @@
+{
+  "name": "Elegant Dental Center (EDC) | مركز إيدك لتقويم وزراعة وتجميل الأسنان",
+  "description": "الموقع الرسمي لمركز إيدك لتقويم وزراعة وتجميل الأسنان (Elegant Dental Center - EDC) في صنعاء. خدمات متخصصة في زراعة وتقويم وتجميل الأسنان والعناية بصحة الفم واللثة على مدار 24 ساعة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
